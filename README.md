@@ -5,6 +5,8 @@
 
 `$0` · 无需 VPN · Windows / macOS / Linux 通用
 
+中文图文版首发于 CSDN：[给 GitHub 开 2FA：Bitwarden 免费版验证码不可用，改用微软验证器](https://blog.csdn.net/2401_88602546/article/details/168742474)
+
 ---
 
 ## 摘要
@@ -163,6 +165,13 @@ Settings → Developer settings → Personal access tokens → Tokens (classic)�
 - [Bitwarden: Password Manager Plans](https://bitwarden.com/help/password-manager-plans/)
 - [GitHub Community: 2FA SMS verification without China (#185029)](https://github.com/orgs/community/discussions/185029)
 - [RFC 6238: TOTP](https://datatracker.ietf.org/doc/html/rfc6238)
+
+---
+
+## 相关链接
+
+- 中文图文版（CSDN）：[给 GitHub 开 2FA：Bitwarden 免费版验证码不可用，改用微软验证器](https://blog.csdn.net/2401_88602546/article/details/168742474)
+- 同类排查记录：[Cisco Packet Tracer 9.0.1 qsvg.dll cannot be verified](https://github.com/ihadimh/pt9-qsvg-dll-fix)
 
 ---
 
