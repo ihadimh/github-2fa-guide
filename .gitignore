@@ -1,0 +1,7 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# 注意：截图放 assets/ 目录，勿提交含真实账号信息的截图
